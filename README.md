@@ -1,5 +1,5 @@
 <div>
-![Profile Banner](https://raw.githubusercontent.com/dgokul19/dgokul19/main/assets/gokulan-dhatchinamoorthy.gif)
+![image alt](https://github.com/dgokul19/dgokul19/blob/a4e02eac9ceb58dc73d889562bb2fa9d1ce194a8/assets/gokulan-dhatchinamoorthy.gif)
 <!-- 
  <img alt="Profile Banner" src="https://drive.google.com/file/d/1mhnuMefjtpc26dxDYInKCyuYJSuHxnsq/view?usp=sharing"> -->
 </div>
