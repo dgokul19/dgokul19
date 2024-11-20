@@ -1,8 +1,6 @@
 <div>
-![image alt](https://github.com/dgokul19/dgokul19/blob/5f09cfe994402c5bb669735453d5c855e9d2d136/assets/gokulan-dhatchinamoorthy.jpg)
-<!-- 
- <img alt="Profile Banner" src="https://drive.google.com/file/d/1mhnuMefjtpc26dxDYInKCyuYJSuHxnsq/view?usp=sharing"> -->
-</div>
+   <img src="https://github.com/dgokul19/dgokul19/blob/163548ef4238cbb6fda4aa4edc90846c55a32d05/assets/gokulan-dhatchinamoorthy.gif" title="Xd" alt="Xd" width="100%" height="220"/>&nbsp;
+ </div>
 
 # Hey there, it's a pleasure to meet you! 👋
 
