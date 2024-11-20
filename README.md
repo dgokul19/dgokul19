@@ -2,7 +2,7 @@
 <br>
 
 <div>
- <img alt="Profile Banner" src="https://https://drive.google.com/file/d/1JmvEdPkwPYXbH4eXXiFQY-zoA0y63jp1/view?usp=drive_link">
+ <img alt="Profile Banner" src="https://drive.google.com/file/d/1JmvEdPkwPYXbH4eXXiFQY-zoA0y63jp1/view?usp=drive_link">
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
