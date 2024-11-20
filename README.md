@@ -1,5 +1,7 @@
 <div>
- <img alt="Profile Banner" src="https://drive.google.com/file/d/1mhnuMefjtpc26dxDYInKCyuYJSuHxnsq/view?usp=sharing">
+![Profile Banner](https://raw.githubusercontent.com/dgokul19/dgokul19/main/assets/gokulan-dhatchinamoorthy.gif)
+<!-- 
+ <img alt="Profile Banner" src="https://drive.google.com/file/d/1mhnuMefjtpc26dxDYInKCyuYJSuHxnsq/view?usp=sharing"> -->
 </div>
 
 # Hey there, it's a pleasure to meet you! 👋
@@ -32,8 +34,9 @@ My toolkit includes, but is not limited to:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Angular" alt="Angular" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="50" height="50" />&nbsp;
 </div>
 
 ### Tools & Platforms: 
